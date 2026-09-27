@@ -1,3 +1,3 @@
 function login() {
-    console.log("Fixed bug in login.js");
+    console.log("Diff demo");
 }
