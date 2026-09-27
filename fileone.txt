@@ -3,4 +3,4 @@ Practice Git fetch and pull.
 Added content in remote git.
 Added yet another content in remote to test git fetch.
 Making further amendments.
-Git restore 1.
+Git restore 2.
