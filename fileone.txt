@@ -1,6 +1,1 @@
-This is the first file.
-Practice Git fetch and pull.
-Added content in remote git.
-Added yet another content in remote to test git fetch.
-Making further amendments.
-Git restore 2.
+Git revert demo 1
