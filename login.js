@@ -1,3 +1,3 @@
 function login() {
-    console.log("Login function called");
+    console.log("Fixed bug in login.js");
 }
